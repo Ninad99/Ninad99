@@ -10,17 +10,17 @@
   <img align="left" alt="Ninad's Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br/>
+<br>
+<br>
 
 I'm a FullStack Developer from India. I mostly spend my time designing and developing scalable web applications, or contributing to open source 👾.
 
-
-I'm also currently working as a consultant [@datasutram](https://github.com/datasutram).
-
 - 🌱 I’m currently learning geospatial visualization with [deck.gl](https://deck.gl/).
+- 👨‍💻 I'm also currently working as a consultant [@datasutram](https://github.com/datasutram).
 - 👯 I’m looking to collaborate on building tools and interesting projects for the web.
 - 💬 Ask me about JavaScript/TypeScript, React/Angular, Node
 - ⚡ Fun fact: Angular isn't as bad as you are made to believe!
+
 
 #### Tools and Technologies I love and work with:
 
