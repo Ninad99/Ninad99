@@ -15,8 +15,8 @@
 
 I'm a FullStack Developer from India. I mostly spend my time designing and developing scalable web applications, or contributing to open source 👾.
 
-- 🌱 I’m currently learning geospatial visualization with [deck.gl](https://deck.gl/).
-- 👨‍💻 I'm also currently working as a consultant [@datasutram](https://github.com/datasutram).
+<!-- - 🌱 I’m currently learning geospatial visualization with [deck.gl](https://deck.gl/).
+- 👨‍💻 I'm also currently working as a consultant [@datasutram](https://github.com/datasutram).  -->
 - 👯 I’m looking to collaborate on building tools and interesting projects for the web.
 - 💬 Ask me about JavaScript/TypeScript, React/Angular, Node
 - ⚡ Fun fact: Angular isn't as bad as you are made to believe!
