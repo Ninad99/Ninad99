@@ -16,13 +16,9 @@
 I'm a FullStack Developer from India. I mostly spend my time designing and developing scalable web applications, or contributing to open source 👾.
 
 - 👨‍🎓 I'm a final year engineering student at Jadavpur University, Kolkata.
-- 👨‍💻 I also work as a software consultant at [@datasutram](https://github.com/datasutram).
-- 🌱 Currently learning and working on NLP with Python.
+- 👨‍💻 I work as a software consultant at [@datasutram](https://github.com/datasutram).
 - 👯 Also happy to collaborate on building tools and interesting projects for the web.
 - 💬 Ask me about JavaScript/TypeScript, React/Angular, Node, Fullstack Development.
-- ⚡ My current go-to tech stacks:
-  - 📺 (For secure, dynamic applications) Next.js, Chakra-UI, TypeScript, Node, Express/Apollo GraphQL, Postgres/MongoDB
-  - 📰 (For static, content-heavy applications) Gatsby, TailwindCSS, Gatsby plugins (these are awesome!), markdown/any headless CMS, serverless functions (aws/gcp)
 
 
 #### Tools and Technologies I love and work with:
