@@ -13,18 +13,19 @@
 <br>
 <br>
 
-I'm a FullStack Developer from India. I mostly spend my time designing and developing scalable web applications, or contributing to open source 👾.
+I'm from a small town in West Bengal, India called [Kalimpong](https://en.wikipedia.org/wiki/Kalimpong), currently working as a Software Development Engineer at [@datasutram](https://github.com/datasutram).
 
-- 👨‍🎓 I'm a final year engineering student at Jadavpur University, Kolkata.
-- 👨‍💻 I work as a software consultant at [@datasutram](https://github.com/datasutram).
-- 👯 Also happy to collaborate on building tools and interesting projects for the web.
-- 💬 Ask me about JavaScript/TypeScript, React/Angular, Node, Fullstack Development.
+My areas of interest lie in FullStack Development, Data Visualisation, Distributed Systems and DevOps. I have experience building enterprise grade GIS systems and scalable frontend architectures.
 
+Recently I've been delving deeper into the world of Big Data and Distributed Data Processing Systems.
+
+You can check out my portfolio and blog [here](https://www.ninadsubba.in/).
 
 #### Tools and Technologies I love and work with:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -33,3 +34,4 @@ I'm a FullStack Developer from India. I mostly spend my time designing and devel
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
