@@ -13,11 +13,9 @@
 <br>
 <br>
 
-I'm from a small town in West Bengal, India called [Kalimpong](https://en.wikipedia.org/wiki/Kalimpong), currently working as a Software Development Engineer at [@datasutram](https://github.com/datasutram).
+I'm a fullstack developer from India, having 2+ years of experience building GIS systems and scalable system architectures.
 
 My areas of interest lie in FullStack Development, Data Visualisation, Distributed Systems and DevOps. I have experience building enterprise grade GIS systems and scalable frontend architectures.
-
-Recently I've been delving deeper into the world of Big Data and Distributed Data Processing Systems.
 
 You can check out my portfolio and blog [here](https://www.ninadsubba.in/).
 
