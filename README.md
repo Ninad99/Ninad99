@@ -13,11 +13,11 @@
 <br>
 <br>
 
-I'm a fullstack developer from India, having 2+ years of experience building GIS systems and scalable system architectures.
+I'm a software engineer with ~5 years of experience delivering full-stack applications and IoT-powered systems in high-impact environments like manufacturing, agriculture, and geospatial tech.
 
-My areas of interest lie in FullStack Development, Data Visualisation, Distributed Systems and DevOps. I have experience building enterprise grade GIS systems and scalable frontend architectures.
+My journey has taken me from building interactive GIS dashboards using WebGL and Angular, to architecting robust full-stack systems that power real-time insights for manufacturing operations. I’ve led the full lifecycle of projects — from ideation and stakeholder alignment, to architecture, implementation, deployment, and post-launch iteration.
 
-You can check out my portfolio and blog [here](https://www.ninadsubba.in/).
+I care deeply about building reliable systems, simplifying complexity, and helping teams deliver great products. Whether it's aligning technical execution with business goals or coaching others through a tough debugging session, I enjoy working where engineering, ownership, and impact meet.
 
 #### Tools and Technologies I love and work with:
 
